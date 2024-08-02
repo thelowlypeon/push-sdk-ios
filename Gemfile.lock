@@ -255,7 +255,8 @@ GEM
       trailblazer-option (>= 0.1.1, < 0.2.0)
       uber (< 0.2.0)
     retriable (3.1.2)
-    rexml (3.2.5)
+    rexml (3.3.3)
+      strscan
     rouge (2.0.7)
     ruby-macho (1.4.0)
     rubyzip (2.3.0)
@@ -275,6 +276,7 @@ GEM
       naturally
     slack-notifier (2.4.0)
     sqlite3 (1.4.2)
+    strscan (3.1.0)
     synx (0.2.1)
       clamp (~> 0.6)
       colorize (~> 0.7)
